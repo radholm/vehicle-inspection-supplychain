@@ -8,7 +8,6 @@ import se.kth.ict.iv1350.vehicleInspection.integration.RegistryCreator;
 
 /**
  * Starts the program and runs an sample execution
- * @author Marcus
  *
  */
 public class Main{
